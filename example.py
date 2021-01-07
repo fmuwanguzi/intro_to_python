@@ -191,3 +191,6 @@ def random_function(weather):
         return 'great weather'
 
 print(subtract(3 ,6))
+
+age = input('How old are you ? ')
+print(age) #comes back as a string
